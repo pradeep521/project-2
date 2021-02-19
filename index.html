@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> 
+
+	</title>
+</head>
+<body>
+
+</body>
+<script type="text/javascript">
+	//promise
+	fetch("data/data.json").then(response=>{
+		return response.json()
+	}).then(finaldata=>{
+		console.log(finaldata.product[4].name)
+	})
+</script>
+</html>

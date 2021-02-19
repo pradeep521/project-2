@@ -1,0 +1,31 @@
+{
+	"products":[
+        {
+        "name":"redmi K20",
+        "image":"img/1.jpy",
+        "price":"27000",
+        "dprice":"24000"	
+        },{
+        	"name":"realmi",
+        "image":"img/2.jpy",
+        "price":"26000",
+        "dprice":"23000"
+
+        },{
+        	"name":"poco x3",
+        "image":"img/3.jpy",
+        "price":"35000",
+        "dprice":"32000"
+        },{
+        	"name":"samsung",
+        "image":"img/4.jpg",
+        "price":"32000",
+        "dprice":"27000"
+        },{
+        	"name":"vivo y19",
+        "image":"img/5.jpg",
+        "price":"25000",
+        "dprice":"23000" 
+        }
+	]
+}
